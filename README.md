@@ -6,3 +6,6 @@ People looking after patients may encounter issues such as following up with pat
 
 # User Story 
 ![image](https://user-images.githubusercontent.com/30194032/214123364-504f5c7e-6468-4f02-b643-9860968d7c8d.png)
+![image](https://user-images.githubusercontent.com/30194032/214123494-2d9983af-51f7-4ed1-adef-bd09e31abeed.png)
+![image](https://user-images.githubusercontent.com/30194032/214123616-0a0165a0-bde9-4155-befe-69fedb44a04e.png)
+
