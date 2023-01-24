@@ -9,3 +9,7 @@ People looking after patients may encounter issues such as following up with pat
 ![image](https://user-images.githubusercontent.com/30194032/214123494-2d9983af-51f7-4ed1-adef-bd09e31abeed.png)
 ![image](https://user-images.githubusercontent.com/30194032/214123616-0a0165a0-bde9-4155-befe-69fedb44a04e.png)
 
+# How The Aplliaction Solved The problem
+![photo_5945016589671840762_y](https://user-images.githubusercontent.com/30194032/214339834-fc530cfb-ca65-4f5d-9c28-a3b3ee9bb333.jpg)
+
+
